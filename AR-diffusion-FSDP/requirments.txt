@@ -1,0 +1,17 @@
+datasets
+einops
+hydra-core
+jsonlines
+mpi4py
+multiprocess
+numpy
+tensorboard
+tokenizers
+tqdm
+transformers
+scikit-learn
+sacrebleu
+future
+sacremoses
+editdistance
+numba
